@@ -1,0 +1,2 @@
+# cibmtr
+The Center for International Blood and Marrow Transplant Research (CIBMTR) is a global leader in collecting and analyzing data on blood and marrow transplantation. It plays a critical role in advancing research, improving clinical practices, and enhancing patient outcomes in transplant medicine. Through initiatives like the Equity in Post-HCT Survival Predictions competition, CIBMTR is actively working to develop fair and accurate predictive models that address disparities and promote equitable healthcare across diverse patient populations.
